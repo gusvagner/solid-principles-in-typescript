@@ -4,4 +4,8 @@ class EmailService {
         return email.includes('@');
     }
 
+    static sendEmail() {
+        // send email
+    }
+
 }
